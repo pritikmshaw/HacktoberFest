@@ -1,5 +1,5 @@
 # HacktoberFest
-# HacktoberFest- Contribute to Open-Source.
+# Contribute to Open-Source.
 
 Create your first Pull Request 🔥(PR) and help contributing to open-source and help everyone with this repository.
 
